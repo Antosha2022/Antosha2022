@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me telegram
+- 📫 How to reach me telegram Anton Marchenko
 
 <!---
 Antosha2022/Antosha2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
