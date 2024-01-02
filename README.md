@@ -1,11 +1,14 @@
 - 👋 Hi, I’m Anton Marchenko
 
-
-### Best student in group on course PHP-Backend 
+# course PHP-Backend
+## Best student in group on  
+## The first passed and successfully defended the diploma project
 https://itproger.com/ua/student/0b88d54854ea63a36972169714246877/back-end/guest
 
-### Diploma 
+### Diploma (pdf)
 https://itproger.com/view-diplom/0b88d54854ea63a36972169714246877/back-end/us
+
+
 
  📫 How to reach me: email marchenko.anton1980@gmail.com 
 <!---
