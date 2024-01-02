@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anton Marchenko
 
-# course PHP-Backend
-## Best student in group, the first passed and successfully defended the diploma project
+# PHP-Backend course 
+## The best student in the group, the first to pass and successfully defend the diploma project
 https://itproger.com/ua/student/0b88d54854ea63a36972169714246877/back-end/guest
 
 ### Diploma (pdf)
